@@ -1,0 +1,68 @@
+body{
+  margin: auto;
+  text-align: center;
+}
+
+#Container img{
+  width: 592px;
+  margin-bottom: 72px;
+}
+
+h1 {
+  color: black;
+  font-family: 'inter', sans-serif;
+  font-size: 49px;
+  font-weight: normal;
+  line-height: 56px;
+}
+
+h1 strong {
+  color: #ff9900;
+  font-family: 'inter', sans-serif;
+  font-weight: bold;
+}
+
+span, a{
+  font-family:  'Open Sans', sans-serif;
+  color: #ff9900;
+}
+
+#prim-text {
+  color: #7d7987 ;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+p{
+  color: #7d7987 ;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#line {
+  width: 568px;
+  height: 0px;
+  margin: 0px auto 8px;
+  line-height: 8px;
+  border: 1px #eceff2 solid;
+}
+
+#rodape a+a {
+  margin-left: 28px;
+}
+
+#rodape {
+  color: #ff9900; 
+  font-size: 14px;
+  line-height: 28px;
+  margin-top: 72px;
+}
+
+.balls{
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
